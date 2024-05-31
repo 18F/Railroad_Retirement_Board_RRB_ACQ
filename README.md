@@ -30,7 +30,9 @@ The Railroad Retirement Board (RRB) is an independent agency in the executive br
 
 RRB is seeking a contractor to assist with building products for the initial slice of work within a broader modernization effort of RRB systems.
 
-This Request for Information (RFI) is issued solely for information and planning purposes; it does not constitute a solicitation or a promise to issue a solicitation in the future. This RFI does not commit the government to contract for any supply or service whatsoever. Unsolicited proposals will not be accepted.
+This RFI has been posted to get industry feedback in an effort to improve the draft RFQ. Candid and honest feedback on the draft RFQ is welcomed.
+
+This RFI is issued solely for information and planning purposes; it does not constitute a solicitation or a promise to issue a solicitation in the future. This RFI does not commit the government to contract for any supply or service whatsoever. Unsolicited proposals will not be accepted.
 
 
 ## RFI Table of Contents
