@@ -239,7 +239,7 @@ RRB field office representatives can efficiently update information for customer
 
 ##### 3.1.2.6 Public Interface Improvements
 
-Users will see an updated user interface on the RRB portal that is more user friendly and accessible in accordance with the guidelines set forth in OMB 23-22 and USWDS. This new UI/UX will enhance our existing screens, forms, and portals.
+Users will see an updated user interface on the RRB portal that is more user friendly and accessible in accordance with the guidelines set forth in OMB 23-22 and U.S. Web Design System (USWDS). This new UI/UX will enhance our existing screens, forms, and portals.
 
 ### 3.2 Quality Assurance Surveillance Plan (QASP)
 
@@ -384,7 +384,7 @@ The contractor must specify whether the fixed hourly rate for each labor categor
 
 ### 4.4 Budget
 
-Contractors are expected to submit a quote assuming an approximate budget of $975K for the base period (six months). The government estimates the average cost of software development under this contract to be approximately $2M per 12 month option period).
+Contractors are expected to submit a quote assuming an approximate budget of $975K for the base period (six months). The government estimates the average cost of software development under this contract to be approximately $2M per 12 month option period.
 
 Contractors are expected to submit a quote reﬂective of its solution to fulﬁll the government's requirements. This estimate represents the services of a development team working full-time (approximately 1920 hours annually) to build an initial increment of CCOSS. This amount does not represent the government's expectation of the cost of the build in its entirety.
 
@@ -822,10 +822,10 @@ The government may determine that a quote is unacceptable if the option prices a
 
 ## Appendices:
 
-- Appendix 1 - [RRB As-Is Applications](appendices/Appendix-1-Terms-and-Conditions.docx)
+- Appendix 1 - [RRB As-Is Applications](Appendix 1_RRB_AsIsStateApplications.pdf)
 - Appendix 2 - [Direct Deposit Change Designs](appendices/Appendix-2-OHS-RFQ-Response-Template.docx)
 - Appendix 3 - [Change of Address Designs](appendices/Appendix-3-OHS-RFQ-Pricing-Sheet.xlsx)
-- Appendix 4 - [Financial Management Report Sample](appendices/Appendix-4-OHS-PWS-Template.docx)
-- Appendix 5 - [RFQ Response Template](appendices/Appendix-5-Conflict-of-Interest.docx)
-- Appendix 6 - [Performance Work Statement (PWS) Template](appendices/Appendix-6-FAR-52.204-24-Provision.docx)
-- Appendix 7 - [Pricing Spreadsheet Template](appendices/Appendix-7-CTA.docx)
+- Appendix 4 - [Financial Management Report Sample](Appendix 4_Financial Management Report_Sample.pdf)
+- Appendix 5 - [RFQ Response Template]
+- Appendix 6 - [Performance Work Statement (PWS) Template](Appendix 6_PWS_Template.pdf)
+- Appendix 7 - [Pricing Spreadsheet Template]
