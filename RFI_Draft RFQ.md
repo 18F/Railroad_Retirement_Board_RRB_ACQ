@@ -76,6 +76,9 @@ RRB has 75+ mainframe and non-mainframe applications supporting RRA and RUIA ben
 
 RRB uses Login.gov (<https://www.login.gov/what-is-login/>) for secure login services for the public to access the myRRB web portal. Once end users verify their identity through login.gov they are able to access the following dashboard of online services:
 
+<img width="465" alt="image" src="https://github.com/18F/Railroad_Retirement_Board_RRB_ACQ/assets/47864216/f6e070be-0699-445a-9c60-c7c2cfca8cbe">
+
+
 ## 2.0 Scope
 
 ### 2.1 Product Vision
