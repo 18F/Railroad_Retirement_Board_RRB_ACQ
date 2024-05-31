@@ -198,19 +198,19 @@ The government expects that the Contractor will work closely with the RRB Produc
 
 Individual user stories may be modified, added, retracted, or reprioritized by the government product owner at any time, and the government expects that the user stories will be continuously refined during the development process.  User stories should generally take the following form:
 
-- As a <type of user> I want <to achieve some goal> so that I <fulfill a purpose>.
+- As a **type of user** I want **to achieve some goal** so that I **fulfill a purpose**.
 
 #### 3.1.1 Preliminary user types
 
 - External (i.e., railroad employees / public)
-- Railroad Retirement Act (RRA) customer are retired railroad employees, their spouses and survivors (widows(er)s, children and certain other dependents), that meet eligibility requirements to receive a retirement and disability benefits. Additional details can be found in the Railroad Retirement and Survivor Benefits Informational Bulletin on rrb.gov (link: <https://www.rrb.gov/sites/default/files/2024-02/2024_IB-2_web.pdf>)
-- Railroad Unemployment Insurance Act (RUIA) customers are railroad employees qualified to receive benefits restoring part of their lost wages arising from periods of unemployment or sickness. Additional details can be found in the Railroad Unemployment and Sickness Benefits publication UB-9 (link: <https://rrb.gov/sites/default/files/2023-06/2023%20UB-9%20%28web%29.pdf>)
+    - Railroad Retirement Act (RRA) customer are retired railroad employees, their spouses and survivors (widows(er)s, children and certain other dependents), that meet eligibility requirements to receive a retirement and disability benefits. Additional details can be found in the Railroad Retirement and Survivor Benefits Informational Bulletin on rrb.gov (link: <https://www.rrb.gov/sites/default/files/2024-02/2024_IB-2_web.pdf>)
+    - Railroad Unemployment Insurance Act (RUIA) customers are railroad employees qualified to receive benefits restoring part of their lost wages arising from periods of unemployment or sickness. Additional details can be found in the Railroad Unemployment and Sickness Benefits publication UB-9 (link: <https://rrb.gov/sites/default/files/2023-06/2023%20UB-9%20%28web%29.pdf>)
 - Internal (i.e., RRB employees / agency employees)
-- Field Service Representative is responsible for handling the full-range of client services regarding benefits available under the various programs administer by RRB. Handles calls from the National Toll-Free Service (NTFS).
-- Claims Examiner is responsible for adjudicating benefit claims using policies and procedures under RRA and RUIA for benefit applicants.
-- Policy & Systems Analyst is responsible for analyzing and improving the operation of RRB's automated systems, programs, and processes.
-- Software Developer/Programmer is responsible for developing, modifying, and managing RRB's software applications.
-- Database Administrator/Engineer is responsible for overseeing/designing maintenance and security measures of RRB databases.
+    - Field Service Representative is responsible for handling the full-range of client services regarding benefits available under the various programs administer by RRB. Handles calls from the National Toll-Free Service (NTFS).
+    - Claims Examiner is responsible for adjudicating benefit claims using policies and procedures under RRA and RUIA for benefit applicants.
+    - Policy & Systems Analyst is responsible for analyzing and improving the operation of RRB's automated systems, programs, and processes.
+    - Software Developer/Programmer is responsible for developing, modifying, and managing RRB's software applications.
+    - Database Administrator/Engineer is responsible for overseeing/designing maintenance and security measures of RRB databases.
 
 #### 3.1.2 Product outcomes
 
@@ -296,12 +296,8 @@ This chart sets forth the performance standards and quality levels that will app
 | **Deliverable 8** | **Performance** |
 | --- | --- |
 | Performance Standard(s) | Application is performant according to modern web standards | 
-| Acceptable Quality Level | Application maintains at least a 99% uptime and maintains a performance in 2 out of 3 metrics ""Good"" or above and all above ""Poor"" rating in all categories of Google's Core Web Vitals: https://web.dev/vitals/
-
-The maximum page load time (99th percentile) must not exceed 6 seconds, though long-running reports and searches can take longer to load within a page. |
-| Method of Assessment | Uptime monitoring reports and web vitals reports made available to COR at least once a month
-
-Core Web Vitals are measured in the field, for the 75th percentile of page loads, segmented across mobile and desktop devices. Vitals are measured using any recommended tool (<https://web.dev/articles/vitals-measurement-getting-started>) |
+| Acceptable Quality Level | Application maintains at least a 99% uptime and maintains a performance in 2 out of 3 metrics ""Good"" or above and all above ""Poor"" rating in all categories of Google's Core Web Vitals: https://web.dev/vitals/. The maximum page load time (99th percentile) must not exceed 6 seconds, though long-running reports and searches can take longer to load within a page. |
+| Method of Assessment | Uptime monitoring reports and web vitals reports made available to COR at least once a month. Core Web Vitals are measured in the field, for the 75th percentile of page loads, segmented across mobile and desktop devices. Vitals are measured using any recommended tool (<https://web.dev/articles/vitals-measurement-getting-started>) |
 | Due Date | Every sprint |
 
 | **Deliverable 9** | **User research** |
@@ -739,7 +735,7 @@ Quotes must be reasonable with respect to technical approach, staffing approach,
 
 The government reserves the right to review information contained in the contractor Performance Assessment Reporting System (CPARS) (http://www.cpars.gov/), and other applicable government systems in an effort to make an informed responsibility determination prior to award.
 
-The government will evaluate the submitted quotes against the criteria set forth below and then make an award based on best value using tradeoffs. ~~The government intends to use a phased approach for this procurement as described below. The Government may perform a comparative evaluation (comparing offers to each other) to select the contractor that is best suited and provides the best value, considering the evaluation factors in this solicitation.~~ To be considered for award, contractors must successfully pass each phase.
+The government will evaluate the submitted quotes against the criteria set forth below and then make an award based on best value using tradeoffs. To be considered for award, contractors must successfully pass each phase.
 
 Contractors are advised that the technical evaluation factors are in descending order of importance. The technical evaluation factors, when combined, are signiﬁcantly more important than price; as non-price factors become closer, price may become more important.
 
@@ -750,10 +746,12 @@ Contractors are advised that the technical evaluation factors are in descending 
 - Phase 2 — Oral Interview (**Factor 4**)
 - Phase 3 — Price Submission
 
-Quotes that do not contain information required in the RFQ (nonresponsive) or quotes that have received a "Low Confidence" rating for any factor will no longer be considered for award. Therefore, contractors who receive a rating of "Low Confidence" in any factor in Phase 1 will **not** be invited to participate in Phase 2 - Oral Interview, contractors who receive a rating of "Low Confidence" in Phase 2 will not advance to price evaluation.\
+Quotes that do not contain information required in the RFQ (nonresponsive) or quotes that have received a "Low Confidence" rating for any factor will no longer be considered for award. Therefore, contractors who receive a rating of "Low Confidence" in any factor in Phase 1 will **not** be invited to participate in Phase 2 - Oral Interview, contractors who receive a rating of "Low Confidence" in Phase 2 will not advance to price evaluation.
+
 The government will evaluate price quotes for award purposes by evaluating the hourly rate for each labor category and the overall discount provided off the contractor's GSA Schedule pricing. This will include evaluating estimated hours submitted by the contractor for the purpose of considering the estimated total cost to the government. The government may determine that a quote is unacceptable if the option prices are significantly unbalanced. Evaluation of options under FAR 52.217-8 will be accomplished by using the prices offered for the last option period to determine the price for a six-month option period, which will be added to the base and other option years to arrive at the total price. Evaluation of options will not obligate the government to exercise the option(s).
 
-The government also reserves the right to make no award.\
+The government also reserves the right to make no award.
+
 **NOTE: The government anticipates selecting an awardee based on initial quotes received; therefore, contractors are cautioned to submit their best price and technical quotes in the initial submission.**
 
 ### 7.4 Evaluation
