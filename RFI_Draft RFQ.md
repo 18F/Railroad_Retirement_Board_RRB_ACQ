@@ -154,15 +154,15 @@ RRB's Product Owner will:
 
 - set product direction that aligns product work that the team conducts and how it contributes to the vision.
 - manage and maintain alignment with all responsible stakeholders to:
-- convey product delivery statuses,
-- channel decisions that require stakeholder input, and
-- identify and facilitate trade-off conversations between business, stakeholder, user, technology, policy and compliance needs.
+    - convey product delivery statuses,
+    - channel decisions that require stakeholder input, and
+    - identify and facilitate trade-off conversations between business, stakeholder, user, technology, policy and compliance needs.
 - identify and mitigate risks.
 - make and document prioritization decisions.
 - communicate a product roadmap broadly.
 - set product goals and outcomes (measures of success)
-- identify, develop, measure, and communicate goals and outcomes to stakeholders, and communicate how these measures of success contribute towards achieving the vision.
-- communicate progress regarding product development and delivery via demos, weekly/bi-weekly updates, etc.
+    - identify, develop, measure, and communicate goals and outcomes to stakeholders, and communicate how these measures of success contribute towards achieving the vision.
+    - communicate progress regarding product development and delivery via demos, weekly/bi-weekly updates, etc.
 - create a 'definition of done' per the user story, iteration, release and the product levels.
 - facilitate team decisions to achieve progress on delivery.
 - collaborate with user research teams to gather feedback from the end users (public and internal) to help refine the product and meet user needs.
