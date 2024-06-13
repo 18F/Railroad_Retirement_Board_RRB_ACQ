@@ -28,7 +28,7 @@
 
 The Railroad Retirement Board (RRB) is an independent agency in the executive branch of the federal government. The RRB's primary function is to administer comprehensive retirement-survivor annuities and unemployment-sickness benefits for the nation's railroad workers and their families, under the Railroad Retirement and Railroad Unemployment Insurance Acts. As part of the retirement program, the RRB also has administrative responsibilities under the Social Security Act for certain benefit payments and railroad workers' Medicare coverage.
 
-RRB is seeking a contractor to assist with building products for the initial slice of work within a broader modernization effort of RRB systems.
+RRB is seeking a contractor to assist with building products for the initial slice of work within a broader modernization effort of RRB systems. There isn't a precious contractor for this work.
 
 This RFI has been posted to get industry feedback in an effort to improve the draft RFQ. Candid and honest feedback on the draft RFQ is welcomed.
 
